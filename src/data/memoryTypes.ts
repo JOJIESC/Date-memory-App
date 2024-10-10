@@ -33,7 +33,7 @@ export const memoryTypes: MemoryType[] = [
     id: 3,
     name: "Memoria SDRAM",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://www.comsite.com.ve/wp-content/uploads/2020/11/memoria-ram-ddr4-1700x956.jpg",
     releaseDate: "1993",
     writeSpeed: "Varía según la generación",
     readSpeed: "Varía según la generación",
