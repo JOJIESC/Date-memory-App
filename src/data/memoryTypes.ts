@@ -49,7 +49,7 @@ export const memoryTypes: MemoryType[] = [
     id: 4,
     name: "Memoria DDR SDRAM",
     image:
-      "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://i.ebayimg.com/images/g/1bUAAOSwWhxm7HeR/s-l1600.webp",
     releaseDate: "2000",
     writeSpeed: "Varía según la versión (DDR, DDR2, DDR3, DDR4, DDR5)",
     readSpeed: "Varía según la versión",
@@ -63,7 +63,7 @@ export const memoryTypes: MemoryType[] = [
     id: 5,
     name: "Memoria RDRAM",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://i.ebayimg.com/images/g/brwAAOSwB91mrq-B/s-l1600.webp",
     releaseDate: "1999",
     writeSpeed: "1,600 MB/s",
     readSpeed: "1,600 MB/s",
@@ -81,7 +81,7 @@ export const memoryTypes: MemoryType[] = [
     id: 6,
     name: "Memoria SRAM",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://i.ebayimg.com/images/g/vtkAAOSwkJJfC-qd/s-l1600.webp",
     releaseDate: "1960s",
     writeSpeed: "Varía",
     readSpeed: "Varía",
@@ -96,7 +96,7 @@ export const memoryTypes: MemoryType[] = [
     id: 7,
     name: "Memoria ROM",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://th.bing.com/th/id/OIP.R4C1pLVu0rSX7zlCIQwg0QAAAA?rs=1&pid=ImgDetMain",
     releaseDate: "1950s",
     writeSpeed: "Solo lectura",
     readSpeed: "Varía",
@@ -107,7 +107,7 @@ export const memoryTypes: MemoryType[] = [
     id: 8,
     name: "Memoria EEPROM",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://i.ebayimg.com/images/g/4iYAAOSwoMFd1mbT/s-l1600.webp",
     releaseDate: "1980s",
     writeSpeed: "Lento comparado con otras memorias",
     readSpeed: "Moderado",
@@ -118,7 +118,7 @@ export const memoryTypes: MemoryType[] = [
     id: 9,
     name: "Memoria CMOS",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://www.profesionalreview.com/wp-content/uploads/2019/11/en-qu%C3%A9-consiste-un-clear-CMOS-y-c%C3%B3mo-realizarlo01-768x576.jpg",
     releaseDate: "1980s",
     writeSpeed: "Muy bajo",
     readSpeed: "Muy bajo",
@@ -135,7 +135,7 @@ export const memoryTypes: MemoryType[] = [
     id: 10,
     name: "Memoria caché",
     image:
-      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "https://razor.com.br/wp-content/uploads/2021/05/O-QUE-E-E-PARA-QUE-SERVE-A-MEMORIA-CACHE-DO-PROCESSADOR-1140x683.webp",
     releaseDate: "1960s",
     writeSpeed: "Muy rápida",
     readSpeed: "Muy rápida",
